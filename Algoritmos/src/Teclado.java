@@ -7,8 +7,6 @@ import java.io.* ;
  *  son capturadas y  se retorna el menor valor representable
  *  del tipo de datos leido.
  *  
- *  Nota: esta no es una muy buena opcion de tratar los posibles errores. En futuras versiones 
- *  (cuendo se explique la gestion de excepciones) se mejorara este tratamiento.
  *
  *  @version 1.0
  *  @author PRG
